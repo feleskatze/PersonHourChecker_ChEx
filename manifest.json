@@ -1,6 +1,6 @@
 {
-  "name": "My Extension",
-  "description": "My Extension",
+  "name": "工数申請確認",
+  "description": "工数申請確認",
   "version": "1.0",
   "manifest_version": 3,
   "permissions": [
@@ -8,6 +8,7 @@
     "scripting",
     "storage"
   ],
+  "default_locale": "ja_JP",
   "options_page": "options.html",
   "action": {
     "default_popup": "popup_main.html",
